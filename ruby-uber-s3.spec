@@ -6,7 +6,7 @@
 Summary:	A simple & very fast S3 client supporting sync / async HTTP adapters
 Name:		ruby-%{pkgname}
 Version:	0.2.4
-Release:	1
+Release:	2
 License:	GPL v2+ or Ruby
 Group:		Development/Languages
 Source0:	http://rubygems.org/downloads/%{pkgname}-%{version}.gem
